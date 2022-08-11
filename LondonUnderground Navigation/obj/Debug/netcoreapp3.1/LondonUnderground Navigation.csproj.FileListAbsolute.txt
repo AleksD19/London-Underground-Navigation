@@ -1,0 +1,13 @@
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\bin\Debug\netcoreapp3.1\LondonUnderground Navigation.exe
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\bin\Debug\netcoreapp3.1\LondonUnderground Navigation.deps.json
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\bin\Debug\netcoreapp3.1\LondonUnderground Navigation.runtimeconfig.json
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\bin\Debug\netcoreapp3.1\LondonUnderground Navigation.runtimeconfig.dev.json
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\bin\Debug\netcoreapp3.1\LondonUnderground Navigation.dll
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\bin\Debug\netcoreapp3.1\LondonUnderground Navigation.pdb
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.AssemblyInfoInputs.cache
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.AssemblyInfo.cs
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.dll
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.pdb
+C:\Users\Aleks\source\repos\LondonUnderground Navigation\obj\Debug\netcoreapp3.1\LondonUnderground Navigation.genruntimeconfig.cache
